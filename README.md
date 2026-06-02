@@ -1,6 +1,6 @@
 # Lucas José
 
-QA Engineer | Manual Testing | API Testing | SQL | Playwright
+QA Engineer | Manual Testing | API Testing | SQL | Playwright | Cypress
 
 Profissional focado em qualidade de software, realizando testes manuais e automação de aplicações web, com foco em garantir que as funcionalidades atendam aos requisitos e à melhor experiência do usuário. Desenvolvi uma base sólida em testes de software, automação e boas práticas de qualidade.
 Tenho perfil analítico, atenção aos detalhes e interesse constante em evoluir na área, contribuindo para entregas mais confiáveis e bem testadas.
