@@ -26,10 +26,26 @@ Tenho perfil analítico, atenção aos detalhes e interesse constante em evoluir
 Este projeto contém o resultado da análise exploratória realizada no sistema disponibilizado pela 4Blue para o teste técnico de QA.
 
 Projeto focado em:
-- Testes manuais
-- Documentação QA
-- Fluxos de validação
-- Relatórios de bugs
+• Testes manuais
+• Documentação QA
+• Fluxos de validação
+• Relatórios de bugs
+
+### 🔹 BugBank Cypress
+
+Este projeto tem como objetivo a automação de testes end-to-end (E2E) utilizando o framework Cypress em uma aplicação bancária web (BugBank).
+
+Foram automatizados cenários positivos e negativos relacionados às funcionalidades de Cadastro, Login, Transferência, Extrato e Fluxos End-to-End, garantindo a qualidade e confiabilidade das funcionalidades críticas da aplicação.
+
+Automação E2E utilizando:
+
+• Cypress
+• JavaScript
+• Page Object Model (POM)
+• Relatórios HTML
+• Testes Funcionais
+• Testes de Fluxo End-to-End
+• Boas práticas de automação  
 
 ### 🔹 Playwright OrangeHRM
 Este projeto tem como objetivo a automação de testes end-to-end (E2E) utilizando o framework Playwright em uma aplicação real de gestão de recursos humanos (OrangeHRM).
@@ -37,10 +53,10 @@ Este projeto tem como objetivo a automação de testes end-to-end (E2E) utilizan
 A automação cobre fluxos críticos do sistema, garantindo a qualidade e confiabilidade das funcionalidades principais.
 
 Automação E2E utilizando:
-- Playwright
-- TypeScript
-- Page Object Model (POM)
-- Relatórios HTML
+• Playwright
+• TypeScript
+• Page Object Model (POM)
+• Relatórios HTML
 
 ### 🔹 Playwright Demoblaze
 Este projeto consiste na automação de testes end-to-end (E2E) de um fluxo real de e-commerce, utilizando Playwright com JavaScript.
@@ -48,18 +64,18 @@ Este projeto consiste na automação de testes end-to-end (E2E) de um fluxo real
 O objetivo principal é validar o comportamento da aplicação sob a perspectiva do usuário final, garantindo que funcionalidades críticas, como navegação, adição ao carrinho e finalização de compra, estejam funcionando corretamente.
 
 Projeto de automação com:
-- Fluxos de compra
-- Login
-- Carrinho
-- Checkout
-- Validações automatizadas
+• Fluxos de compra
+• Login
+• Carrinho
+• Checkout
+• Validações automatizadas
 
 ### 🔹 QA Mate Academy Project
 Projeto de testes QA com:
-- Test cases
-- Bug reports
-- Cenários funcionais
-- Evidências de testes
+• Test cases
+• Bug reports
+• Cenários funcionais
+• Evidências de testes
   
 
 ---
