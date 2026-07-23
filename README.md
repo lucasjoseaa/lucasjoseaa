@@ -91,8 +91,11 @@ Projeto de testes QA com:
 - Conhecimentos Agile (Scrum, Kanban)
 - SQL
 - Ferramentas: Jira, TestRail, Git/Github, Terminal Unix, Postman, DBeaver, Playwright, Cypress
+- CI/CD (Integração Contínua e Entrega/Implantação contínua)
 - Compreensão de como a Web funciona (Arquitetura Cliente-Servidor, Chrome DevTools, HTML/CSS, XML, JSON)
-- Conhecimentos em JavaScript/Typescript 
+- Linguagens: JavaScript/TypeScript/C++/Python/PHP
+- OS: Windows/Linux 
+- Inglês: Intermediário+
 
 
 ---
