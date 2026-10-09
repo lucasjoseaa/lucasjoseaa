@@ -41,47 +41,47 @@
 
 <p align="center"><b>Automação e Testes</b></p>
 <p align="center">
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="45" title="Playwright"/>&nbsp;
-  &nbsp;<img src="https://cdn.simpleicons.org/cypress/69D3A7" height="45" title="Cypress"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="45" title="Selenium"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" height="45" title="BDD / Gherkin"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="45" title="Postman"/>&nbsp;
-  &nbsp;<img src="https://cdn.simpleicons.org/bruno/F4AA41" height="45" title="Bruno"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="45" title="Jira"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="45" title="Android Studio"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="45" title="Playwright"/>&nbsp;
+  &nbsp;<img src="https://cdn.simpleicons.org/cypress/69D3A7" width="45" title="Cypress"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45" title="Selenium"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="45" title="BDD / Gherkin"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" title="Postman"/>&nbsp;
+  &nbsp;<img src="https://cdn.simpleicons.org/bruno/F4AA41" width="45" title="Bruno"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="45" title="Jira"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio"/>&nbsp;
 </p>
 
 <p align="center"><b>Linguagens e Web</b></p>
 <p align="center">
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" title="TypeScript"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" title="Python"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" title="PHP"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45" title="C++"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" title="HTML5"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" title="CSS3"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="45" title="JSON"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="45" title="Chrome DevTools"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" title="PHP"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="45" title="JSON"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="45" title="Chrome DevTools"/>&nbsp;
 </p>
 
 <p align="center"><b>Dados, CI/CD e Ambiente</b></p>
 <p align="center">
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="45" title="MariaDB"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="45" title="DBeaver"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="45" title="GitHub Actions"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" title="Git"/>&nbsp;
-  &nbsp;<img src="https://cdn.simpleicons.org/github/888888" height="45" title="GitHub"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" title="Linux"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="45" title="Windows"/>&nbsp;
-  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="45" title="Terminal"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="45" title="MariaDB"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="45" title="DBeaver"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="45" title="GitHub Actions"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>&nbsp;
+  &nbsp;<img src="https://cdn.simpleicons.org/github/888888" width="45" title="GitHub"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45" title="Windows"/>&nbsp;
+  &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" title="Terminal"/>&nbsp;
 </p>
 
 <p align="center"><b>IA aplicada a QA</b></p>
 <p align="center">
-  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png" height="45" title="Claude"/>&nbsp;
-  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/githubcopilot.png" height="45" title="GitHub Copilot"/>&nbsp;
-  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" height="45" title="ChatGPT"/>&nbsp;
+  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png" width="45" title="Claude"/>&nbsp;
+  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/githubcopilot.png" width="45" title="GitHub Copilot"/>&nbsp;
+  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="45" title="ChatGPT"/>&nbsp;
 </p>
 
 
