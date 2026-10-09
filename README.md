@@ -79,8 +79,8 @@
 
 <p align="center"><b>IA aplicada a QA</b></p>
 <p align="center">
-  &nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" height="45" title="Claude"/>&nbsp;
-  &nbsp;<img src="https://cdn.simpleicons.org/githubcopilot/888888" height="45" title="GitHub Copilot"/>&nbsp;
+  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png" height="45" title="Claude"/>&nbsp;
+  &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/githubcopilot.png" height="45" title="GitHub Copilot"/>&nbsp;
   &nbsp;<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" height="45" title="ChatGPT"/>&nbsp;
 </p>
 
